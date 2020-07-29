@@ -4,7 +4,7 @@ style: dark # dark (default) or light
 locale: "en-US"
 title: "PathologicalHandwaving"
 url: "https://pathologicalhandwaving.github.io/jekyll-theme-console"
-baseurl:
+baseurl: "/"
 repository: "pathologicalhandwaving/jekyll-theme-console"
 
 header_pages:
@@ -18,3 +18,4 @@ header_pages:
 
 plugins_dir:
   - jekyll-paginate
+  
